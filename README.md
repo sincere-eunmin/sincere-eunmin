@@ -10,11 +10,11 @@
 > 2. ViewPager2
 > 3. Custom Calendar
 
+*  Flow, State Flow, Shared Flow
+
 *  MVVM
 
 *  Clean Architecture
-
-*  Flow, State Flow, Shared Flow
 
 *  Retrofit2, Room
 
