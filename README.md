@@ -4,6 +4,8 @@
 
 * 안드로이드에 대해
 
+[안드로이드에 대해서.pdf](https://github.com/sincere-eunmin/sincere-eunmin/files/7642505/default.pdf)
+
 * UI
 
 > 1. RecyclerView
