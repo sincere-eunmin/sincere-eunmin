@@ -8,7 +8,9 @@
 
 *  Coroutines, Flow, StateFlow, SharedFlow
 
-*  [MVVM]: https://github.com/sincere-eunmin/mvvm
+*  [MVVM] [mvvmlink]
+
+[googlelink]: https://github.com/sincere-eunmin/mvvm
 
 *  Clean Architecture
 
