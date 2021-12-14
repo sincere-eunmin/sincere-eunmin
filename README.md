@@ -10,7 +10,7 @@
 
 *  [MVVM] [mvvmlink]
 
-[googlelink]: https://github.com/sincere-eunmin/mvvm
+[mvvmlink]: https://github.com/sincere-eunmin/mvvm
 
 *  Clean Architecture
 
