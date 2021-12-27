@@ -4,8 +4,7 @@
 
 * 안드로이드에 대해
 
-![안드로이드에 대해서](https://github.com/sincere-eunmin/sincere-eunmin/files/7779441/1.pdf)
-
+![안드로이드에 대해서](https://user-images.githubusercontent.com/88996022/147456112-63e2de9a-537e-4745-8dcf-8c532a2bbafe.png)
 
 *  Coroutines, Flow, StateFlow, SharedFlow
 
